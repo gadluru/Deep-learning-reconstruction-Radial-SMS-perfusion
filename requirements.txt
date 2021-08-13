@@ -1,0 +1,10 @@
+tqdm==4.61.2
+numpy==1.19.5
+h5py==2.10.0
+matplotlib==3.0.3
+scikit-image==0.15.0
+torch==1.4.0
+torchsummary==1.5.1
+torchvision==0.2.2.post3
+tensorboard==2.0.0
+future==0.18.2

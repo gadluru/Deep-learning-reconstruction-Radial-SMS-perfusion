@@ -17,13 +17,7 @@ This repository only contains test datasets for visualizing the results of resid
 4. Run 'train_network.py in the gated or ungated directories to train the respective networks, traind networks save to the trainedNetwork directory
 5. Run 'visualize.py' to visualize a test dataset, movies of the reconstructions saves to the results file
 
-<<<<<<< HEAD
 The residual booster 3D U-Net was trianed on a Quadro RTX 6000 GPU (~24 GB) on a Linux Fedora 26 operatoring system. Trainiing the network for 100 epochs requires ~12 hours.
-=======
-The residual booster 3D U-Net was trianed on a Quadro RTX 6000 GPU (~24 GB) on a Linux Fedora 26 operatoring system. Training the network for 100 epochs requires ~12 hours.
->>>>>>> 3c76f6d132d261b870c8644a7534c113da35c6dd
-
-
 
 https://user-images.githubusercontent.com/35586452/129275208-073007a2-6466-48d0-b807-616cae605c15.mp4
 

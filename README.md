@@ -14,8 +14,11 @@ This repository only contains test datasets for visualizing the results of resid
 1. Download the trained networks and test datasets for the gated and ungated residual booster 3D U-Net using the following links.
 
 Gated Network - https://drive.google.com/drive/folders/1muef-xB9ccEA00En_qpQEVFsd76ZlXWa?usp=sharing
+
 Ungated Network - https://drive.google.com/drive/folders/1lYOVBRg0xOsRAfV8P003GpOjEk8Xn3eP?usp=sharing
+
 Gated Testsets - https://drive.google.com/drive/folders/1Vo9FF1IcpgL0krB27qb4aeaeM35M1_5J?usp=sharing
+
 Ungated Testsets - https://drive.google.com/drive/folders/1ZBHQz8mAcuoFD3clYGFvCaqZ76GnQThu?usp=sharing
 
 2. Insert the folders containing the trained networks in the 'trainedNetwork' sub-directory within the gated and ungated directories respectively

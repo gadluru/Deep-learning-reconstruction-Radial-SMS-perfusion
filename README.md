@@ -43,6 +43,7 @@ https://user-images.githubusercontent.com/35586452/129275208-073007a2-6466-48d0-
 
 Performance comparisons of the residual booster 3D U-Net (BU3), the residual booster 2D U-Net (BU2), MoDL, and CRNN-MRI for the structural similarity index (SSIM), peak signal-to-noise ratio (PSNR), and normalized root mean squared error (NRMSE) averaged over 6 gated (6 ungated if ungated variant) radial simultaneous multi-slice (SMS) test datasets, Mean ± SD. Quality metrics were measured for each time frame and averaged over all test datasets.
 
+
 CRNN-MRI: Qin C, Schlemper J, Caballero J, Price A, Hajnal J, Rueckert D. Convolutional Recurrent Neural Networks for Dynamic MR Image Reconstruction. IEEE Transaction on Medical Imaging 2017;38(1):280-90.
 
 MoDL: Aggarwal H, Mani M, Jacob M. MoDL: Model Based Deep Learning Architecture for Inverse Problems. IEEE Transaction on Medical Imaging 2019;38(2):394-405.

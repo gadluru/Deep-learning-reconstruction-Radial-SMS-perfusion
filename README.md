@@ -3,7 +3,7 @@
 This repository contains code and example test datasets for the paper 'Deep Learning for Radial SMS Myocardial Perfusion Reconstruction using the 3D Residual Booster U-Net'
 
 Instructions:
-Running this code requires the installation of Conda and Pip for creating virtual environments and installing packages. Instructions for installing conda and pip can be found in the following link:
+Running this code requires the installation of Conda and Pip for creating virtual environments and installing packages. Instructions for installing conda and pip can be found in the following links:
 
 https://conda.io/projects/conda/en/latest/user-guide/install/index.html
 

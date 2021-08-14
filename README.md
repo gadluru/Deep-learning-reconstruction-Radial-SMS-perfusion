@@ -32,7 +32,8 @@ This repository only contains test datasets for visualizing the results of resid
 The residual booster 3D U-Net was trianed on a Quadro RTX 6000 GPU (~24 GB) on a Linux Fedora 26 operatoring system. Training the network for 100 epochs requires ~12 hours.
 
 
-https://user-images.githubusercontent.com/35586452/129431653-ca3d98f7-c894-498d-aaeb-bc8bb0ea6c46.mov
+![network comparisons](https://user-images.githubusercontent.com/35586452/129432181-12ca51ff-f35a-4e3d-afeb-3a761486e14f.gif)
+
 
 
 |           |        BU2          |        MoDL         |     CRNN-MRI        |        BU3          |    BU3 (ungated)    |

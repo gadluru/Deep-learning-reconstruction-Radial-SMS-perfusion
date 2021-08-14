@@ -26,10 +26,10 @@ This repository only contains test datasets for visualizing the results of resid
 4. Create a virtual environment using the command 'conda create -n myenv python=3.6.7.'
 5. Activate the virtual environment using the command 'source activate myenv'
 6. Run 'pip install -r requirements.txt' to install the required packages.
-7. Run 'train_network.py in the gated or ungated directories to train the respective networks, traind networks save to the trainedNetwork directory.
+7. Run 'train_network.py in the gated or ungated directories to train the respective networks, trained networks save to the trainedNetwork directory.
 8. Run 'visualize.py' to visualize a test dataset, movies of the reconstructions saves to the results file.
 
-The residual booster 3D U-Net was trianed on a Quadro RTX 6000 GPU (~24 GB) on a Linux Fedora 26 operatoring system. Training the network for 100 epochs requires ~12 hours.
+The residual booster 3D U-Net was trained on a Quadro RTX 6000 GPU (~24 GB) on a Linux Fedora 26 operatoring system. Training the network for 100 epochs requires ~12 hours.
 
 
 ![network comparisons](https://user-images.githubusercontent.com/35586452/129432181-12ca51ff-f35a-4e3d-afeb-3a761486e14f.gif)
